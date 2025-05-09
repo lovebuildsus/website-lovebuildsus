@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>lovebuilds.us</title>
+    <link href="https://lovebuilds.us/feed.xml" rel="self" />
+    <link href="https://lovebuilds.us" />
+    <updated>2025-05-08T18:18:52-07:00</updated>
+    <author>
+        <name>Eli</name>
+    </author>
+    <id>https://lovebuilds.us</id>
+
+    <entry>
+        <title>Title</title>
+        <author>
+            <name>Eli</name>
+        </author>
+        <link href="https://lovebuilds.us/title.html"/>
+        <id>https://lovebuilds.us/title.html</id>
+
+        <updated>2025-05-08T18:18:52-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Iorem Ipsum
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Iorem Ipsum</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
